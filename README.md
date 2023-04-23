@@ -4,7 +4,7 @@ In this research, we will examine data sets that include details about Spotify t
 Datasets from Kaggle were used to compile them, and they include details like title, artist, genre, views, likes,
 and popularity. To do the analysis, Jupyter Notebook and Python will be used.
 
-Identifying the most popular music videos on YouTube is one of the goals.
+1. Identifying the most popular music videos on YouTube is one of the goals.
 2. To examine the distribution of YouTube music video views, favourites, and disapprovals.
 3. To discover the most well-liked musical categories on Spotify and YouTube.
 4. To examine the Spotify song popularity distribution.
